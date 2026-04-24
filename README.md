@@ -25,9 +25,13 @@ Auto Creation: Create up to 500 channels and roles with custom names.
 Role Spam: Flood the server with specified role names.
 
 # 🔗 OFFICIAL LINKS & SUPPORT
-If you need help or want to stay updated with our latest releases, follow our official channels:
-DC SERVER LINK [**discord.gg/nexushub**](https://discord.gg/kUDWQeunCa)
-__📩 RUN METHOD.__
+If you need help or want to stay updated with our latest releases, follow our official channels
+
+[**discord.gg/nexushub**](https://discord.gg/kUDWQeunCa)
+[**YOUTUBE CHANNEL LINK**](https://youtube.com/@nexushubshop?si=5R_yjzNytQApQTo_)
+
+# 📩 RUN METHOD
+
 📦 Update & Upgrade Termux
 pkg update -y && pkg upgrade -y
 
