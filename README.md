@@ -2,8 +2,8 @@
 Welcome to the most powerful Hyper Sonic Nuker V3 themed Discord automation tool. This tool is optimized for high speed performance and professional Destroyed server management.
 
 👑 OFFICIAL OWNERSHIP
-Owner Name: ! M A T R I X™
-Username: matrix4real_
+Owner Name: **! M A T R I X™**
+Username: **matrix4real_**
 Developer Brand: NexusHub
 🚀 EXCLUSIVE FEATURES
 ⚡ 30K+ PING OPTIMIZATION
@@ -27,24 +27,24 @@ Role Spam: Flood the server with specified role names.
 🔗 OFFICIAL LINKS & SUPPORT
 If you need help or want to stay updated with our latest releases, follow our official channels:
 
-**📩 RUN METHOD.**
+__📩 RUN METHOD.__
 📦 Update & Upgrade Termux
 pkg update -y && pkg upgrade -y
 
-**📁 Enable Storage Access**
+__📁 Enable Storage Access__
 termux-setup-storage
 
-**🟢 Check Node.js & npm**
-``node -v``
+__🟢 Check Node.js & npm__
+node -v
 npm -v
 
-**📥 Install Required Packages**
+__📥 Install Required Packages__
 npm install discord.js axios
 
-**📂 Go to Project Folder**
+__📂 Go to Project Folder__
 cd storage/shared/Folder-Name
 
-**▶️ Run Bot**
+__▶️ Run Bot__
 node main.js
 
 ⚠️ **DISCLAIMER**
