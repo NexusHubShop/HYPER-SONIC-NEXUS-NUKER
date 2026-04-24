@@ -26,7 +26,7 @@ Role Spam: Flood the server with specified role names.
 
 # 🔗 OFFICIAL LINKS & SUPPORT
 If you need help or want to stay updated with our latest releases, follow our official channels:
-
+DC SERVER LINK [**discord.gg/nexushub**](https://discord.gg/kUDWQeunCa)
 __📩 RUN METHOD.__
 📦 Update & Upgrade Termux
 pkg update -y && pkg upgrade -y
