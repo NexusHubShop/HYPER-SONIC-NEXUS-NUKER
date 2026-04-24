@@ -28,6 +28,7 @@ Role Spam: Flood the server with specified role names.
 If you need help or want to stay updated with our latest releases, follow our official channels
 
 [**discord.gg/nexushub**](https://discord.gg/kUDWQeunCa)
+
 [**YOUTUBE CHANNEL LINK**](https://youtube.com/@nexushubshop?si=5R_yjzNytQApQTo_)
 
 # 📩 RUN METHOD
@@ -51,7 +52,7 @@ cd storage/shared/Folder-Name
 __▶️ Run Bot__
 node main.js
 
-⚠️ **DISCLAIMER**
+# ⚠️ DISCLAIMER
 This software is provided by ! M A T R I X™ for educational and authorized testing purposes only. The owner is not responsible for any misuse. Always ensure you are following Discord's Terms of Service.
 
 © 2026 ! M A T R I X™ | All Rights Reserved.
