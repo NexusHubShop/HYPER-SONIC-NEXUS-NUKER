@@ -28,13 +28,24 @@ Role Spam: Flood the server with specified role names.
 If you need help or want to stay updated with our latest releases, follow our official channels:
 
 📩 RUN METHOD.
-pkg update -y && pkg upgrade -y   # Update system packages  
-termux-setup-storage              # Storage permission allow  
-node -v                           # Check Node.js version  
-npm -v                            # Check npm version  
-npm install discord.js axios      # Install required packages  
-cd storage/shared/Folder-Name     # Go to your project folder  
-node main.js                      # Run your tool
+# 📦 Update & Upgrade Termux
+pkg update -y && pkg upgrade -y
+
+# 📁 Enable Storage Access
+termux-setup-storage
+
+# 🟢 Check Node.js & npm
+node -v
+npm -v
+
+# 📥 Install Required Packages
+npm install discord.js axios
+
+# 📂 Go to Project Folder
+cd storage/shared/Folder-Name
+
+# ▶️ Run Bot
+node main.js
 
 ⚠️ DISCLAIMER
 This software is provided by ! M A T R I X™ for educational and authorized testing purposes only. The owner is not responsible for any misuse. Always ensure you are following Discord's Terms of Service.
