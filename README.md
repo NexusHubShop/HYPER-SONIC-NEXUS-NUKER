@@ -29,7 +29,7 @@ If you need help or want to stay updated with our latest releases, follow our of
 
 [**discord.gg/nexushub**](https://discord.gg/kUDWQeunCa)
 
-[**YOUTUBE CHANNEL LINK**](https://youtube.com/@nexushubshop?si=5R_yjzNytQApQTo_)
+[**YouTube Channel**](https://youtube.com/@nexushubshop?si=5R_yjzNytQApQTo_)
 
 # 📩 RUN METHOD
 
@@ -55,4 +55,4 @@ node main.js
 # ⚠️ DISCLAIMER
 This software is provided by ! M A T R I X™ for educational and authorized testing purposes only. The owner is not responsible for any misuse. Always ensure you are following Discord's Terms of Service.
 
-© 2026 ! M A T R I X™ | All Rights Reserved.
+**© 2026 ! M A T R I X™ | All Rights Reserved.**
